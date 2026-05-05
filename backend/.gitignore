@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+.venv/
+
+# Uploads
+backend/uploads/
+
+# OS
+.DS_Store
+
+# Node (if frontend exists)
+node_modules/
+
+# Logs
+*.log
